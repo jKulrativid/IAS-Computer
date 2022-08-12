@@ -72,7 +72,7 @@
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="downloadFrequency" val="1.0"/>
-    <a name="simulationFrequency" val="1000.0"/>
+    <a name="simulationFrequency" val="1024000.0"/>
     <comp lib="0" loc="(230,550)" name="Clock"/>
     <comp lib="0" loc="(250,460)" name="Pin">
       <a name="appearance" val="NewPins"/>
