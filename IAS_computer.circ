@@ -76,13 +76,16 @@
     <comp lib="0" loc="(230,550)" name="Clock"/>
     <comp lib="0" loc="(250,460)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="start"/>
     </comp>
     <comp lib="0" loc="(250,530)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="reset"/>
     </comp>
     <comp lib="0" loc="(710,480)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="MQ"/>
       <a name="output" val="true"/>
       <a name="radix" val="10signed"/>
       <a name="width" val="16"/>
@@ -90,6 +93,7 @@
     <comp lib="0" loc="(710,500)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="AC"/>
       <a name="output" val="true"/>
       <a name="radix" val="10signed"/>
       <a name="width" val="16"/>
