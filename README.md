@@ -17,4 +17,4 @@ Example programs are located in 'example' folder
 
 To activate IAS Computer, press (ctrl+1), toggle start button, and press (ctrl+k) to trigger clock.
 
-**Note that** you can speed up the clock via selecting fequency at 'simulate/auto-tick frequency'
+**Note:** you can speed up the clock via selecting fequency at 'simulate/auto-tick frequency'
